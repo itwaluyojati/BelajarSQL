@@ -4,9 +4,6 @@ START TRANSACTION;
 
 CREATE DATABASE IF NOT EXISTS `db_coba` /*!40100 DEFAULT CHARACTER SET utf8 */;
 USE `db_coba`;
---
--- Database: `w3schools`
---
 
 -- --------------------------------------------------------
 
