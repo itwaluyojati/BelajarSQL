@@ -1,0 +1,24 @@
+=====================================================================
+Steps 
+1. Install MySQL Server + MySQL GUI Tools
+2. Import db_coba.sql
+=====================================================================
+
+Point : SQL SELECT
+1.	Tampilkan semua data pada table Costumer.
+2.	Tampilkan semua CustomerName, City pada table Costumer.
+
+Point : SQL SELECT DISTINCT
+1.	Tampilkan data Country pada table Costumer tanpa duplikat value.
+
+Point : SQL SELECT WHERE
+1.	Tampilkan semua data pada table Costumer yang dari Mexico.
+2.	Tampilkan semua data pada table Costumer yang dari Mexico dan Canada.
+
+Point : SQL ORDER
+1.	Tampilkan semua data pada table Costumer urutkan berdasarkan CustomerName Ascending.
+
+Point : SQL LIMIT
+1.	Tampilkan hanya 5 data pada table Costumer.
+
+=====================================================================
